@@ -26,8 +26,8 @@ Run `npm run dev` to.
 
 Open your browser and go to provided link to see the UI.
 You'll can choose the level and the scenario you want to see.
-You'll can see your solution by clicking on the "Run" button.
-You'll can see the solution by clicking on the "Solution" button.
+You'll can see your solution by clicking on the "Run"(Executer) button.
+You'll can see my solution by clicking on the "Run Solution" (Executer solution) and "Run bonus" (Executer bonus) button.
 
 ## VSCode recommended extensions
 
@@ -35,6 +35,7 @@ You'll can see the solution by clicking on the "Solution" button.
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
 - [Console Ninja](https://marketplace.visualstudio.com/items?itemName=mohsen1.console-ninja)
+- [SonarLint](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode)
 
 ## License
 
